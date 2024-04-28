@@ -1,0 +1,15 @@
+{
+  "name": "nt-core",
+  "private": true,
+  "version": "0.17.0",
+  "packageManager": "yarn@3.5.1",
+  "scripts": {
+   "update": "node ./scripts/update-manifest.js"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
